@@ -256,4 +256,4 @@ to 5, `Eden` is 5 times the size of the `From/To` space. The total parts would b
 I hope this journey has been beneficial to you. Feel free to leave any feedback or questions. Happy JVM tweaking!
 
 ### Author and Copyright Information
-Copyright © 2014 Lloyd Dilley (originally written on 9/2/2014) under the terms of the GNU Free Documentation License v1.3
+Copyright © 2014 Lloyd Dilley (originally written on 9/2/2014) under the terms of the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.txt)
