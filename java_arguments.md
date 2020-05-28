@@ -212,4 +212,4 @@ do not exist...
 * Others?
 
 ### Author and Copyright Information
-Copyright © 2015 Lloyd Dilley (originally written on 12/20/2015) under the terms of the GNU Free Documentation License v1.3
+Copyright © 2015 Lloyd Dilley (originally written on 12/20/2015) under the terms of the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.txt)
