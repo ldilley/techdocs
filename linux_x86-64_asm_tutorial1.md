@@ -369,4 +369,4 @@ I hope you have enjoyed this tutorial and that it has helped you in some way. Fe
 suggestions, do not hesitate to comment.
 
 ### Author and Copyright Information
-Copyright © 2014 Lloyd Dilley (originally written on 4/12/2014) under the terms of the GNU Free Documentation License v1.3
+Copyright © 2014 Lloyd Dilley (originally written on 4/12/2014) under the terms of the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.txt)
